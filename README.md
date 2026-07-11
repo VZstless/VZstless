@@ -12,9 +12,9 @@
 The story of past:  
 [@deepin-community](https://github.com/deepin-community) [@intel](https://github.com/intel)  
 
-GPG Public Key ID: see in the [contacts](https://contacts.vzstless.moe) page
+GPG Public Key ID: see in the [contacts](https://vzstless.moe) page
   
-[blog](https://vzstless.moe)  [contacts](https://contacts.vzstless.moe)  [alert](https://status.vzstless.moe)
+[blog](https://vzstless.moe)  [alert](https://status.vzstless.moe)
 
 MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 
