@@ -1,7 +1,7 @@
 # VZstless as your friend or thinker
 
 - 🍥 Bring your own Estrogen since 2025.09.09, friendly to everyone.
-- ✉️ Contact me through my [contacts](https://contacts.vzstless.moe) page.
+- ✉️ Contact me through my [contacts](https://vzstless.moe) page.
 - 👻 Learn whatever I love no matter which part of Computer Science.
 - 🐣 Libre & OpenSource aholic.
 - 🏳️‍⚧️ Escape, escape, escape...
