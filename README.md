@@ -20,7 +20,7 @@ MY MASTODON SERVER: [aineias.cc](https://aineias.cc)
 
 ### NixOS Configurations
 
-Trying to rebuild all my machines' configuration into one flake, but it takes time for me to stay out of burden...
+See [flake](https://github.com/VZstless/flake).
 
 ### Tor Nodes:
 Urania: [D6259C6EF0590EBCC7DF597AA635D6822B803351](https://metrics.torproject.org/rs.html#details/D6259C6EF0590EBCC7DF597AA635D6822B803351)  
