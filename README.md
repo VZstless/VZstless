@@ -1,10 +1,10 @@
 # VZstless as your friend or thinker
 
-- 🍥 Bring your own Estrogen since 2025.09.09, friendly to everyone.
+- 🍥 I, heretic. I, community-less ranger. 
 - ✉️ Contact me through my [contacts](https://vzstless.moe) page.
 - 👻 Learn whatever I love no matter which part of Computer Science.
 - 🐣 Libre & OpenSource aholic.
-- 🏳️‍⚧️ Escape, escape, escape...
+- 🏳️‍⚧️ Friendly or fire to everyone.
 - 🐧 A human-like history book or cheatsheet.
 - 🍀I work so I live.
 - 😈 Get Fxxked verified by [systemd](https://github.com/systemd/systemd/pull/41219)
