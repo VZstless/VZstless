@@ -6,7 +6,7 @@
 - 🐣 Libre & OpenSource aholic.
 - 🏳️‍⚧️ Friendly or fire to everyone.
 - 🐧 A human-like history book or cheatsheet.
-- 🍀I work so I live.
+- 🍀 I work so I live.
 - 😈 Get Fxxked verified by [systemd](https://github.com/systemd/systemd/pull/41219)
 
 The story of past:  
